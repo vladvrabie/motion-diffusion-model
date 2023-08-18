@@ -1,3 +1,9 @@
+assets/actionrecognition/
+body_models/smpl/
+dataset/HumanAct12Poses/
+dataset/HumanML3D/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
